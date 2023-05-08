@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore docs files
 _gh_pages
 _site
@@ -52,3 +53,10 @@ _zip
 
 /assets/js/*hydejack-*
 /_sass/*/__*__/*
+=======
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+>>>>>>> b936dafe06d64e930f3bde65fe5abb24cde8807b
